@@ -8817,11 +8817,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Asp_Net_MVC\\SamTech.Exam\\SamTech.Exam.Web\\SamTech.Exam.Web.csproj",
+      "projectUniqueName": "D:\\Asp_Mvc_Crud\\SamTech.Exam\\SamTech.Exam.Web\\SamTech.Exam.Web.csproj",
       "projectName": "SamTech.Exam.Web",
-      "projectPath": "D:\\Asp_Net_MVC\\SamTech.Exam\\SamTech.Exam.Web\\SamTech.Exam.Web.csproj",
+      "projectPath": "D:\\Asp_Mvc_Crud\\SamTech.Exam\\SamTech.Exam.Web\\SamTech.Exam.Web.csproj",
       "packagesPath": "C:\\Users\\shami\\.nuget\\packages\\",
-      "outputPath": "D:\\Asp_Net_MVC\\SamTech.Exam\\SamTech.Exam.Web\\obj\\",
+      "outputPath": "D:\\Asp_Mvc_Crud\\SamTech.Exam\\SamTech.Exam.Web\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\shami\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -8837,8 +8837,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "D:\\Asp_Net_MVC\\SamTech.Exam\\SamTech.Exam.Framework\\SamTech.Exam.Framework.csproj": {
-              "projectPath": "D:\\Asp_Net_MVC\\SamTech.Exam\\SamTech.Exam.Framework\\SamTech.Exam.Framework.csproj"
+            "D:\\Asp_Mvc_Crud\\SamTech.Exam\\SamTech.Exam.Framework\\SamTech.Exam.Framework.csproj": {
+              "projectPath": "D:\\Asp_Mvc_Crud\\SamTech.Exam\\SamTech.Exam.Framework\\SamTech.Exam.Framework.csproj"
             }
           }
         }

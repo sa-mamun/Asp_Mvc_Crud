@@ -4930,11 +4930,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Asp_Net_MVC\\SamTech.Exam\\SamTech.Exam.Data\\SamTech.Exam.Data.csproj",
+      "projectUniqueName": "D:\\Asp_Mvc_Crud\\SamTech.Exam\\SamTech.Exam.Data\\SamTech.Exam.Data.csproj",
       "projectName": "SamTech.Exam.Data",
-      "projectPath": "D:\\Asp_Net_MVC\\SamTech.Exam\\SamTech.Exam.Data\\SamTech.Exam.Data.csproj",
+      "projectPath": "D:\\Asp_Mvc_Crud\\SamTech.Exam\\SamTech.Exam.Data\\SamTech.Exam.Data.csproj",
       "packagesPath": "C:\\Users\\shami\\.nuget\\packages\\",
-      "outputPath": "D:\\Asp_Net_MVC\\SamTech.Exam\\SamTech.Exam.Data\\obj\\",
+      "outputPath": "D:\\Asp_Mvc_Crud\\SamTech.Exam\\SamTech.Exam.Data\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\shami\\AppData\\Roaming\\NuGet\\NuGet.Config",

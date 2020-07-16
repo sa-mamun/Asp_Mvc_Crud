@@ -3,11 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30011.22
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SamTech.Exam.Web", "SamTech.Exam.Web\SamTech.Exam.Web.csproj", "{4E9958D5-BA62-4525-8F0C-443DC86DED46}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SamTech.Exam.Web", "SamTech.Exam.Web\SamTech.Exam.Web.csproj", "{4E9958D5-BA62-4525-8F0C-443DC86DED46}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SamTech.Exam.Framework", "SamTech.Exam.Framework\SamTech.Exam.Framework.csproj", "{5C5F2361-BEEB-4D5D-B461-E250A3CCF0B0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SamTech.Exam.Framework", "SamTech.Exam.Framework\SamTech.Exam.Framework.csproj", "{5C5F2361-BEEB-4D5D-B461-E250A3CCF0B0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SamTech.Exam.Data", "SamTech.Exam.Data\SamTech.Exam.Data.csproj", "{5085D3D0-6692-476B-9D0F-A98D6FFBC5AF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SamTech.Exam.Data", "SamTech.Exam.Data\SamTech.Exam.Data.csproj", "{5085D3D0-6692-476B-9D0F-A98D6FFBC5AF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{5E47F9EB-F65C-4E89-B1A6-CB923088F095}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SamTech.Exam.Framework.Tests", "SamTech.Exam.Framework.Tests\SamTech.Exam.Framework.Tests.csproj", "{0F83B7DE-960B-4ABC-8A44-27E4BD61F079}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,9 +31,16 @@ Global
 		{5085D3D0-6692-476B-9D0F-A98D6FFBC5AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5085D3D0-6692-476B-9D0F-A98D6FFBC5AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5085D3D0-6692-476B-9D0F-A98D6FFBC5AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F83B7DE-960B-4ABC-8A44-27E4BD61F079}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F83B7DE-960B-4ABC-8A44-27E4BD61F079}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F83B7DE-960B-4ABC-8A44-27E4BD61F079}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F83B7DE-960B-4ABC-8A44-27E4BD61F079}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{0F83B7DE-960B-4ABC-8A44-27E4BD61F079} = {5E47F9EB-F65C-4E89-B1A6-CB923088F095}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {0F1B2186-87C4-48D5-9D9F-73B4540EF93F}
